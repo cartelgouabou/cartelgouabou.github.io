@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Arthur Cartel Foahom Gouabou</title>
+        <link rel="icon" type="image/x-icon" href="assets/img/me.jpg" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+        <style>
+            img {
+                border-radius: 50%;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-light" id="mainNav">
+            <div class="container px-4 px-lg-5">
+                <a class="navbar-brand" href="index.html">Cartel'homepage</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    Menu
+                    <i class="fas fa-bars"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ms-auto py-4 py-lg-0">
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="projects.html">Projects</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="publications.html">Publications</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="cv.html">CV</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Page Header-->
+        <header class="masthead" style="background-image: url('assets/img/teaching-bg.jpg')">
+            <div class="container position-relative px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <div class="page-heading">
+                            <h1>Teaching</h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- Main Content-->
+        <section id="teaching" class="home-section wg-teaching">
+            <div class="home-section-bg"></div>
+            <div class="container">
+                <div class="row featurette" id="teaching">
+                    <div class="col-sm-12">
+                        <hr>
+                        <h1 class="featurette-heading">Teaching Experience</h1>
+                    </div>
+                </div>
+
+                <div class="pub-list-item view-citation" style="margin-bottom: 1rem;">
+                    <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+                    <h2>Research Assistant Professor (hourly volume: 192h/year) <span class="text-muted">09/2022 --- 08/2023</span></h2>
+                    <h3>Faculty of Sciences of the University of Aix-Marseille <span class="text-muted">Marseille, France</span></h3>
+                    <ul>
+                        <li>Operation of computers - Licence 1 preparation to scientific studies: Tutorial and practical work</li>
+                        <li>Programming - Bachelor in mathematic and computer science: Practical works</li>
+                        <li>Introduction to software engineering - Bachelor in computer science: Practical works</li>
+                        <li>Embedded systems - Master degree in TSI: Tutorial and practical work</li>
+                        <li>Programming - Bachelor in computer science: Practical works</li>
+                        <li>Signal acquisition and processing - Master degree in EEEA: Practical works</li>
+                        <li>Digital processing of measurement - Bachelor in SPI: Practical works</li>
+                    </ul>
+                </div>
+
+                <div class="pub-list-item view-citation" style="margin-bottom: 1rem;">
+                    <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+                    <h2>Teaching Assistant (hourly volume: 64h/year) <span class="text-muted">10/2019 --- 08/2022</span></h2>
+                    <h3>IUT Networking and Telecommunications, Aix Marseille University <span class="text-muted">Marseille, France</span></h3>
+                    <ul>
+                        <li>Transmission mathematics: Tutorial and practical work</li>
+                        <li>Communication Writing of internship report (MS WORD), presentation (MS PowerPoint): Tutorial and practical work</li>
+                        <li>Database (SQL): Practical work</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        <!-- Footer-->
+        <footer class="border-top">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <ul class="list-inline text-center">
+                            <li class="list-inline-item">
+                                <a href="https://www.researchgate.net/profile/Arthur-C-Foahom-Gouabou" target="_blank">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-researchgate fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="https://www.linkedin.com/in/arthur-cartel-foahom-gouabou-phd-41041195/" target="_blank">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="https://github.com/cartelgouabou" target="_blank">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="mailto:cartelgouabou@gmail.com" aria-label="envelope">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fas fa-circle fa-stack-2x"></i>
+                                        <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                        </ul>
+                        <div class="small text-center text-muted fst-italic">Copyright &copy; Arthur Cartel Foahom Gouabou Personal Website 2022</div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>
